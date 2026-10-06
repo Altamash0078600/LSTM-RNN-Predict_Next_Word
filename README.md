@@ -34,12 +34,12 @@ The Streamlit application provides a simple interface where users can enter a se
 
 ```text
 .
-├── app(4).py
-├── experiemnts(1).ipynb
+├── app.py
+├── experiemnts.ipynb
 ├── hamlet.txt
 ├── next_word_lstm.h5
 ├── tokenizer.pickle
-├── requirements(20261006-061149).txt
+├── requirements.txt
 └── README.md
 ```
 
@@ -47,12 +47,12 @@ The Streamlit application provides a simple interface where users can enter a se
 
 | File | Description |
 |---|---|
-| `app(4).py` | Streamlit application for interactive next-word prediction |
-| `experiemnts(1).ipynb` | Notebook containing data preparation, sequence generation, model training and evaluation |
+| `app.py` | Streamlit application for interactive next-word prediction |
+| `experiemnts.ipynb` | Notebook containing data preparation, sequence generation, model training and evaluation |
 | `hamlet.txt` | Shakespeare's *Hamlet* text used as the training corpus |
 | `next_word_lstm.h5` | Trained LSTM model |
 | `tokenizer.pickle` | Saved tokenizer used to convert input text into sequences |
-| `requirements(20261006-061149).txt` | Python dependencies required to run the project |
+| `requirements.txt` | Python dependencies required to run the project |
 
 ## ⚙️ How It Works
 
