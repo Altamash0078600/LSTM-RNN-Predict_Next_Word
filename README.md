@@ -21,7 +21,7 @@ The Streamlit application provides a simple interface where users can enter a se
 
 Try the deployed Streamlit application here:
 
-🚀 Live Demo - Next Word Prediction with LSTM
+🚀 Live Demo - ([Next Word Prediction with LSTM](https://lstm-rnn-predictnextword-i87gup4835abhjf887hfnt.streamlit.app/)
 
 ## 🧠 Technologies Used
 
