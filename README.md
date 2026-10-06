@@ -17,6 +17,12 @@ Output: be
 
 The Streamlit application provides a simple interface where users can enter a sequence of words and request the model's next-word prediction.
 
+🌐 Live Demo
+
+Try the deployed Streamlit application here:
+
+🚀 Live Demo - Next Word Prediction with LSTM
+
 ## 🧠 Technologies Used
 
 - Python
